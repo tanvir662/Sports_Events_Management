@@ -1,0 +1,56 @@
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\obj\Debug\Sports Events Management.csproj.CoreCompileInputs.cache
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\Sports Events Management.dll.config
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\Sports Events Management.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\Sports Events Management.pdb
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\csc.exe
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\csc.exe.config
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\csc.rsp
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\csi.exe
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\csi.exe.config
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\csi.rsp
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.AppContext.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Console.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\vbc.exe
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\vbc.exe.config
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\vbc.rsp
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\obj\Debug\Sports Events Management.csproj.CopyComplete
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\obj\Debug\Sports Events Management.dll
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\obj\Debug\Sports Events Management.pdb
+C:\Users\Dipu\source\repos\Sports Events Management\Sports Events Management\obj\Debug\Sports Events Management.csprojAssemblyReference.cache
